@@ -1,0 +1,40 @@
+C:\Users\SALMAN KHAN\Desktop\hostel________\hostel________\bin\hostel________.dll
+C:\Users\SALMAN KHAN\Desktop\hostel________\hostel________\bin\hostel________.pdb
+C:\Users\SALMAN KHAN\Desktop\hostel________\hostel________\obj\Debug\hostel________.dll
+C:\Users\SALMAN KHAN\Desktop\hostel________\hostel________\obj\Debug\hostel________.pdb
+C:\Users\SALMAN KHAN\Desktop\hostel________\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+D:\class\3rd year\Projects\hostel________\hostel________\bin\hostel________.dll
+D:\class\3rd year\Projects\hostel________\hostel________\bin\hostel________.pdb
+D:\class\3rd year\Projects\hostel________\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+D:\class\3rd year\Projects\hostel________\hostel________\obj\Debug\hostel________.dll
+D:\class\3rd year\Projects\hostel________\hostel________\obj\Debug\hostel________.pdb
+C:\Users\M. Saqib\Desktop\mess\dining mangement system\hostel________\bin\hostel________.dll
+C:\Users\M. Saqib\Desktop\mess\dining mangement system\hostel________\bin\hostel________.pdb
+C:\Users\M. Saqib\Desktop\mess\dining mangement system\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+C:\Users\M. Saqib\Desktop\mess\dining mangement system\hostel________\obj\Debug\hostel________.dll
+C:\Users\M. Saqib\Desktop\mess\dining mangement system\hostel________\obj\Debug\hostel________.pdb
+F:\mess\dining mangement system\hostel________\bin\hostel________.dll
+F:\mess\dining mangement system\hostel________\bin\hostel________.pdb
+F:\mess\dining mangement system\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+F:\mess\dining mangement system\hostel________\obj\Debug\hostel________.dll
+F:\mess\dining mangement system\hostel________\obj\Debug\hostel________.pdb
+G:\dining mangement system\hostel________\bin\hostel________.dll
+G:\dining mangement system\hostel________\bin\hostel________.pdb
+G:\dining mangement system\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+G:\dining mangement system\hostel________\obj\Debug\hostel________.dll
+G:\dining mangement system\hostel________\obj\Debug\hostel________.pdb
+E:\Projects\dining mangement system\hostel________\bin\hostel________.dll
+E:\Projects\dining mangement system\hostel________\bin\hostel________.pdb
+E:\Projects\dining mangement system\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+E:\Projects\dining mangement system\hostel________\obj\Debug\hostel________.dll
+E:\Projects\dining mangement system\hostel________\obj\Debug\hostel________.pdb
+F:\dining mangement system\hostel________\bin\hostel________.dll
+F:\dining mangement system\hostel________\bin\hostel________.pdb
+F:\dining mangement system\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+F:\dining mangement system\hostel________\obj\Debug\hostel________.dll
+F:\dining mangement system\hostel________\obj\Debug\hostel________.pdb
+C:\Users\M. Saqib\Desktop\mess\2\dining mangement system\hostel________\bin\hostel________.dll
+C:\Users\M. Saqib\Desktop\mess\2\dining mangement system\hostel________\bin\hostel________.pdb
+C:\Users\M. Saqib\Desktop\mess\2\dining mangement system\hostel________\obj\Debug\hostel________.csprojResolveAssemblyReference.cache
+C:\Users\M. Saqib\Desktop\mess\2\dining mangement system\hostel________\obj\Debug\hostel________.dll
+C:\Users\M. Saqib\Desktop\mess\2\dining mangement system\hostel________\obj\Debug\hostel________.pdb

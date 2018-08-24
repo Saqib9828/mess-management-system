@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="hostel________.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/js-image-slider.css" rel="stylesheet" type="text/css" />
+    <script src="Styles/js-image-slider.js"> </script>
+    
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1> &nbsp;&nbsp;
+                    Case Study of S. S. Hall (North) </h1> 
+              
+            </div>
+             
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/Mess_facility.aspx" Text="Mess Facility"/>
+                        <asp:MenuItem NavigateUrl="Service_fessility.aspx" Text="Service"/>
+                        <asp:MenuItem NavigateUrl="rules_regulation.aspx" Text="Rules"/>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
+                        <asp:MenuItem NavigateUrl="contact_us.aspx" Text="Contact Us"/>   
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="footer" style="width: 100%">
+      @All Right reserved Mohd Sakib 
+      <div style="  float: right; margin-right: 10px">
+           
+          <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="https://www.facebook.com"><asp:Image ID="Image6" runat="server" Width="30px" Height="25px" ImageUrl="~/icon images/fb.png" /></asp:HyperLink>&nbsp;&nbsp;
+           
+          <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="https://twitter.com"><asp:Image ID="Image7" runat="server" Width="30px" Height="25px" ImageUrl="~/icon images/twiter.png" /></asp:HyperLink>&nbsp;&nbsp;
+           
+          <asp:HyperLink ID="HyperLink8" runat="server" NavigateUrl="https://in.linkedin.com"><asp:Image ID="Image8" runat="server" Width="30px" Height="25px" ImageUrl="~/icon images/in.png" /></asp:HyperLink>&nbsp;&nbsp;
+           
+          <asp:HyperLink ID="HyperLink9" runat="server" NavigateUrl="https://www.youtube.com"><asp:Image ID="Image9" runat="server" Width="30px" Height="25px" ImageUrl="~/icon images/ytube.png" /></asp:HyperLink>&nbsp;&nbsp;
+           
+          <asp:HyperLink ID="HyperLink10" runat="server" NavigateUrl="https://login.yahoo.com"><asp:Image ID="Image10" runat="server" Width="30px" Height="25px" ImageUrl="~/icon images/yahoo.png" /></asp:HyperLink>&nbsp;&nbsp;
+           
+          <asp:HyperLink ID="HyperLink11" runat="server" NavigateUrl="https://plus.google.com"><asp:Image ID="Image11" runat="server" Width="30px" Height="25px" ImageUrl="~/icon images/g_plus.png" /></asp:HyperLink>&nbsp;&nbsp;&nbsp;
+           
+          <asp:HyperLink ID="HyperLink12" runat="server" NavigateUrl="https://mail.google.com"><asp:Image ID="Image12" runat="server" Width="30px" Height="25px" ImageUrl="~/icon images/gmail.png" /></asp:HyperLink>&nbsp;
+      </div>
+</div>
+    </div>
+
+    
+    </form>
+</body>
+</html>
